@@ -56,7 +56,7 @@ Steps
 
     Clone the Repository: Clone the repository to your local machine using:
 
-    git clone <repository_url>
+    git clone <(https://github.com/dmmonjur/pandas-challenge-1.git)>
 
     Launch the Jupyter Notebook: Open the wholesale_data_analysis_starter_code.ipynb file in Jupyter Notebook or JupyterLab.
     Execute the Analysis: Follow the workflow described in the notebook to perform the analysis step by step.
